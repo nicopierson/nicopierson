@@ -3,7 +3,7 @@
 I'm a software engineer looking to contribute to open source projects that assist the community. I work with ReactJS, Flask, Express frameworks.
 
 - I’m currently working on my portfolio project <a href="https://yourcity-app.herokuapp.com/">YourCity</a> 🏙️
-- I’m looking to collaborate on open source projects to support and help people 👯
+- I’m looking to collaborate on open source projects to support and help people 👐 🌱
 - Pronouns: He/him 😄
 - Fun fact: I lived in Brazil for 3 years and I can speak some Portuguese 🇧🇷
 
@@ -12,4 +12,4 @@ I'm a software engineer looking to contribute to open source projects that assis
 - Connect with me <a href="https://www.linkedin.com/in/nico-pierson/">LinkedIn</a> 💼
 - Take a look at my <a href="https://nicopierson.github.io/">Portfolio</a> 🔗
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicopierson&show_icons=true&locale=en" alt="nicopierson" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicopierson&show_icons=true&locale=en&hide=contribs&count_private=true" alt="nicopierson" /></p>
