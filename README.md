@@ -1,6 +1,6 @@
 ### Hey all! I'm Nico 👋 👨‍💻 + ☕
 
-I'm a software engineer looking to contribute to open source projects that assist the community. I work with ReactJS, Flask, Express frameworks.
+I'm a web developer looking to contribute to open source projects that assist the community. I work with ReactJS, Flask, Express frameworks.
 
 - I’m currently working on my portfolio project <a href="https://yourcity-app.herokuapp.com/">YourCity</a> 🏙️
 - I’m looking to collaborate on open source projects to support and help people 👐 🌱
