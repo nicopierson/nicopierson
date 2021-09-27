@@ -11,5 +11,3 @@ I'm a software engineer looking to contribute to open source projects that assis
 - How to reach me: nicogpt@gmail.com 📫
 - Connect with me <a href="https://www.linkedin.com/in/nico-pierson/">LinkedIn</a> 💼
 - Take a look at my <a href="https://nicopierson.github.io/">Portfolio</a> 🔗
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicopierson&show_icons=true&locale=en&hide=contribs&count_private=true" alt="nicopierson" /></p>
