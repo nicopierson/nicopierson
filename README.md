@@ -1,12 +1,11 @@
-### Hey all! I'm Nico 👋 👨‍💻 + ☕
+### Hey y'all! I'm Nico 👋 👨‍💻 + ☕
 
-I'm a web developer looking to contribute to open source projects that assist the community.
+I build full stack systems that don’t fall apart in production—and if they do, you can actually figure out why.
 
-- I’m looking to collaborate on open source projects to support and help people 👐 🌱
-- Based in Los Angeles, CA 🌴
-- Pronouns: He/him 😄
-- Fun fact: I lived in Brazil for 3 years and I can speak some Portuguese 🇧🇷
+Most of my work is across frontend, backend, and infrastructure in large-scale systems. I spend lots of time on traceability and observability so debugging doesn’t turn into guesswork.
 
-## Where you can find me
-- How to reach me: nicogpt@gmail.com 📫
-- Connect with me <a href="https://www.linkedin.com/in/nico-pierson/">LinkedIn</a> 💼
+Whatever part of the system needs attention, I'll put out the fire.
+
+## How to reach?
+- nicogpt@gmail.com 📫
+- <a href="https://www.linkedin.com/in/nico-pierson/">LinkedIn</a> 💼
