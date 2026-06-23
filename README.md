@@ -1,10 +1,8 @@
 ### Hey y'all! I'm Nico 👋 👨‍💻 + ☕
 
-I build full stack systems that don’t fall apart in production—and if they do, you can actually figure out why.
+I build full stack systems that don’t fall apart in production.
 
-Most of my work is across frontend, backend, and infrastructure in large-scale systems. I spend lots of time on traceability and observability so debugging doesn’t turn into guesswork.
-
-Whatever part of the system needs attention, I'll put out the fire.
+Most of my work is across frontend, backend, and infrastructure in large-scale systems. Lately I've been focusing on traceability and observability so debugging doesn’t turn into guesswork.
 
 ## How to reach?
 - nicogpt@gmail.com 📫
